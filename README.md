@@ -23,8 +23,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muntahics&theme=react&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=muntahics&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muntahics&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muntahics&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muntahics&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muntahics&theme=react&no-frame=false&no-bg=true&margin-w=4)
