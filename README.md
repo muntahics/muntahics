@@ -30,7 +30,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=muntahics&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muntahics&icon=0&color=1)](https://visitcount.itsvg.in)
